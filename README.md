@@ -4,7 +4,7 @@
 ## This is a test sample app I built for tutorial purpose.
 
 <!-- Italics -->
-This is my first attempt of using _Git Hub_ and I wanted to learn about the __commands__, and other staffs I can do using this __Global platform.
+This is my first attempt of using _Git Hub_ and I wanted to learn about the __commands__, and other staffs I can do using this __Global__ platform.
 
 ---
 
